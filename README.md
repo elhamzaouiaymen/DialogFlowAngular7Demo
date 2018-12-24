@@ -2,7 +2,7 @@
 This is a chatbot demo using Dialogflow API. 
 
 Environment configuration 
----------------------------------------
+
 @angular-devkit/architect         0.8.8
 @angular-devkit/build-angular     0.8.8
 @angular-devkit/build-optimizer   0.8.8
@@ -16,4 +16,4 @@ Environment configuration
 rxjs                              6.2.2
 typescript                        2.9.2
 webpack                           4.16.4
----------------------------------------
+
